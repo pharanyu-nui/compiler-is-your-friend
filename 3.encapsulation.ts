@@ -14,6 +14,8 @@ to set the `divisor` member variable.
 
 Questions:
 1) What did you learn from this exercise?
+  - How to hide data in class.
+
 */
 class SafeDivisor {
     private divisor: number = 1;

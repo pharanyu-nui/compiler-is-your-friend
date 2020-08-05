@@ -10,7 +10,10 @@ You can use Google to look up the method calls.
 
 Questions:
 1) How to ensure that the input is a string at compile time?
+  - defind type to string to input of function.
+
 2) What did you learn from this exercise?
+  - how to defind type for ensure data of input/output.
 */
 
 function scriptAt(s: string): number {
