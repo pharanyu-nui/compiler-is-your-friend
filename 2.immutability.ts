@@ -11,7 +11,7 @@ Questions:
 3) What did you learn from this exercise?
 */
 function safeDivide(): number {
-    let x: number = 42;
+    const x: number = 42;
 
     if (x == 0) throw new Error("x should not be 0");
 
